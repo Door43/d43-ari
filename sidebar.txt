@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ari:home|Door43 (ari)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ari|d43-ari repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ari/archive/master.zip|d43-ari.zip]]
+
+**Recent Changes**
+{{changes>ns = ari}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ari|Ethnologue data]]
+
